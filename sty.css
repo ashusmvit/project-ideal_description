@@ -1,0 +1,20 @@
+body{ background-color:	#ADFF2F;}
+.container{
+  background-color:	#7CFC00;
+  margin-top:5%;
+  border-radius:10px;
+  padding: 0% 5% 5% 10%;
+}
+h2 {color:red;}
+img{width:60%;
+margin:0 auto;
+}
+h3{text-decoration:underline;
+font-weight:bold;
+font-size:30px;}
+.content{
+  font-size:15px;
+
+}
+h4{text-transform:capitalize;
+padding-left:5%}
